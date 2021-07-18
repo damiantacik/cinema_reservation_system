@@ -16,6 +16,7 @@ def create_film():
 
     f.relocate_spectators("10C", "5C")
     f.allocate_spectators("5A", "Jan")
+
     f.print_ticket(card_printer)
     f.get_num_empty_seats()
 
