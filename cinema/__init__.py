@@ -1,1 +1,0 @@
-from cinema.cinema import Cinema
